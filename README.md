@@ -21,9 +21,8 @@
  ／￣|　　 |　|　| 
    (￣ヽ＿_ヽ_)__) 
    ＼二)⠀⠀⠀⠀)
-
- <p align="right">▶︎•၊၊||၊|။|||||၊၊||၊|။|| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-  <video src="https://github.com/user-attachments/assets/e3f18350-3e34-4d11-8590-eb540a4dab1c" width="250" height="250"/></video>
+ <br>
+<p align="right"> <a href="https://youtu.be/clMBbfA2HlY">▶︎•၊၊||၊|။|||||၊၊||၊|။||</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </pre>
 
 <b align="center">

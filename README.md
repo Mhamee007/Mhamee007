@@ -27,8 +27,8 @@
   <a href="https://steamcommunity.com/profiles/76561198397787301/"><img alt="Static Badge" src="https://img.shields.io/badge/%20-steam-black?style=for-the-badge&logo=steam&logoColor=white&logoSize=auto&label=%20&labelColor=darkblue&color=darkblue&link=%22https%3A%2F%2Fsteamcommunity.com%2Fprofiles%2F76561198397787301%2F%22" title = "My steam profile"></a>   
 &nbsp;&nbsp; <a href="https://open.spotify.com/playlist/5NkGDmWNzCYX0rZtzfwwCm?si=d17a8ee13ec14457"><img alt="Static Badge" src="https://img.shields.io/badge/%20-spotify-black?style=for-the-badge&logo=spotify&logoColor=white&logoSize=auto&label=%20&labelColor=lightgreen&color=lightgreen&link=%22https%3A%2F%2Fsteamcommunity.com%2Fprofiles%2F76561198397787301%2F%22" title= "One of my music teste"></a>
 &nbsp;&nbsp; <a href="https://www.facebook.com/MM.Phuchi?locale=th_TH"><img alt="Static Badge" src="https://img.shields.io/badge/%20-facebook-black?style=for-the-badge&logo=facebook&logoColor=white&logoSize=auto&label=%20&labelColor=blue&color=blue&link=%22https%3A%2F%2Fsteamcommunity.com%2Fprofiles%2F76561198397787301%2F%22" title = "I mostly post art here"></a>&nbsp;&nbsp; <a><img alt="Static Badge" src="https://img.shields.io/badge/%20-LoL-black?style=for-the-badge&logo=leagueoflegends&logoColor=white&logoSize=auto&label=%20&labelColor=red&color=red&link=%22https%3A%2F%2Fsteamcommunity.com%2Fprofiles%2F76561198397787301%2F%22" title= "Nightmode#2995"></a>
-
 </p>
+<hr>
 <!---
 Mhamee007/Mhamee007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
